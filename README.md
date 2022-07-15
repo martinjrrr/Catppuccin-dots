@@ -32,7 +32,7 @@ These are the config files for my Catpuccin rice- Have fun!
 
   from this github https://github.com/karlstav/cava
   
-- rxfetch - *a Custom system fetching tool which is made in bash script.*
+- rxfetch - *a custom system fetching tool which is made in bash script.*
   
   from this github: https://github.com/Mangeshrex/rxfetch
   
@@ -44,7 +44,7 @@ These are the config files for my Catpuccin rice- Have fun!
   
   from github: https://github.com/yshui/picom
   
-- pipes.sh - *a animated pipes terminal screensaver, reminiscent of Windows' pipes screensaver*
+- pipes.sh - *an animated pipes terminal screensaver, reminiscent of Windows' pipes screensaver*
   
   from this github: https://github.com/pipeseroni/pipes.sh
   
@@ -60,8 +60,8 @@ These are the config files for my Catpuccin rice- Have fun!
   # rxfetch:
   ![grafik](https://user-images.githubusercontent.com/91160845/179309463-1de05e1f-a9b9-4721-aea9-2e62ccc0406f.png)
 
-
-
+  # pipes.sh
+  ![grafik](https://user-images.githubusercontent.com/91160845/179310243-22aef38c-a04c-4c3a-a43c-f8f058c74cf9.png)
 
 
 
