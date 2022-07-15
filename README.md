@@ -5,7 +5,7 @@ You are most likely going to need the Jetbrains Nerdfont for things to work corr
 Otherwise only the Papirus Icon pack.
 
 
-
+# To install any of these programs you can use 'yay' or 'pamac' to install them, it will work just fine and is easier for beginners.
 
 Programs on the screenshot are: 
 
