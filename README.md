@@ -17,8 +17,14 @@ These are the config files for my Catpuccin rice- Have fun!
 
 
 
-- rainfall - *a cli similar to cmatrix but with falling rain*
-  from this github: https://github.com/alpin111/rainfall
+
+- picom - *a compositor for X, and a fork of Compton, it adds blur among a few animations*
+  
+  from github: https://github.com/yshui/picom
+  
+- rofi - *a window switcher, Application launcher and dmenu replacement.*
+  
+  from this github: https://github.com/davatorium/rofi
   
 - cava - *a console-based sound visualizer for:*
    - Pulseaudio
@@ -32,25 +38,21 @@ These are the config files for my Catpuccin rice- Have fun!
 
   from this github https://github.com/karlstav/cava
   
+- ncspot - *a ncurses Spotify client written in Rust using librespot'
+
+  from this github: https://github.com/hrkfdn/ncspot
+  
 - rxfetch - *a custom system fetching tool which is made in bash script.*
   
   from this github: https://github.com/Mangeshrex/rxfetch
-  
-- rofi - *a window switcher, Application launcher and dmenu replacement.*
-  
-  from this github: https://github.com/davatorium/rofi
-  
-- picom - *a compositor for X, and a fork of Compton, it adds blur among a few animations*
-  
-  from github: https://github.com/yshui/picom
   
 - pipes.sh - *an animated pipes terminal screensaver, reminiscent of Windows' pipes screensaver*
   
   from this github: https://github.com/pipeseroni/pipes.sh
   
-- ncspot - *a ncurses Spotify client written in Rust using librespot'
+- rainfall - *a cli similar to cmatrix but with falling rain*
 
-  from this github: https://github.com/hrkfdn/ncspot
+  from this github: https://github.com/alpin111/rainfall
   
   # rofi:
   ![grafik](https://user-images.githubusercontent.com/91160845/179308738-a764caeb-545d-434e-8629-a14c9985510e.png)
