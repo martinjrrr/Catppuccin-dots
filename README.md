@@ -54,6 +54,9 @@ These are the config files for my Catpuccin rice- Have fun!
   # cava: 
   ![grafik](https://user-images.githubusercontent.com/91160845/179309062-36adcac7-f32f-43de-b805-45b6d8da0795.png)
 
+  # ncspot:
+  ![grafik](https://user-images.githubusercontent.com/91160845/179309264-77f6ddfb-c25a-4690-aa63-af3b2477abb7.png)
+
  
 
 
