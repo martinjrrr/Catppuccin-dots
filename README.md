@@ -14,22 +14,26 @@ Programs on the screenshot are:
 
 
 - rainfall 
-  from the AUR: https://aur.archlinux.org/packages/rainfall
+  from this github: https://github.com/alpin111/rainfall
   
 - cava 
-  from the AUR https://aur.archlinux.org/packages/cava
+  from this github https://github.com/karlstav/cava
   
 - rxfetch 
-  from the AUR: https://aur.archlinux.org/packages/rxfetch
+  from this github: https://github.com/Mangeshrex/rxfetch
   
 - rofi
-  from the AUR: https://aur.archlinux.org/packages/rofi-git
+  from this github: https://github.com/davatorium/rofi
   
-- picom 'tryone' (fork)
-  from the AUR: https://aur.archlinux.org/packages/picom-tryone-git
+- picom 'mainline, I did not use a fork'
+  from github: https://github.com/yshui/picom
   
 - pipes.sh 
-  from the AUR: https://aur.archlinux.org/packages/pipes.sh
+  from this github: https://github.com/pipeseroni/pipes.sh
   
   
 ![grafik](https://user-images.githubusercontent.com/91160845/179303606-d09ae351-1632-42b0-9700-c195e4da97f4.png)
+
+
+
+
