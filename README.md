@@ -4,7 +4,11 @@ I'm not yet offering the Wallpaper, since it is paid and I can not distribute it
 
 # Disclaimer:
 The GTK, Rofi and Kitty themes are provided by the catppuccin Github:
-https://github.com/catppuccin/catppuccin
+- Rofi:         https://github.com/catppuccin/rofi
+- Alacritty:    https://github.com/catppuccin/catppuccinhttps://github.com/catppuccin/r
+- Kitty:        https://github.com/catppuccin/catppuccinhttps://github.com/catppuccin/r
+- GTK Theme:    https://github.com/catppuccin/catppuccinhttps://github.com/catppuccin/rhttps://github.com/catppuccin/catppuccinhttps://github.com          /catppuccin/r
+
 You can use my files but I recommend you Download them from there!
 
 
