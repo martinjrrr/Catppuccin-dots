@@ -1,13 +1,17 @@
 # dotfiles-catpuccin-Rice
 These are the config files for my Catpuccin rice- Have fun!
 
-You are most likely going to need the Jetbrains Nerdfont for things to work correctly
-Otherwise only the Papirus Icon pack.
 
+# Dependencies: 
 
-# To install any of these programs you can use 'yay' or 'pamac' to install them, it will work just fine and is easier for beginners.
+- Jetbrains Nerd Font
 
-Programs on the screenshot are: 
+- Papirus Icon theme
+  from this github: https://github.com/PapirusDevelopmentTeam/papirus_icons
+
+![grafik](https://user-images.githubusercontent.com/91160845/179303606-d09ae351-1632-42b0-9700-c195e4da97f4.png)
+
+# Programs are:
 
 
 
@@ -32,7 +36,7 @@ Programs on the screenshot are:
   from this github: https://github.com/pipeseroni/pipes.sh
   
   
-![grafik](https://user-images.githubusercontent.com/91160845/179303606-d09ae351-1632-42b0-9700-c195e4da97f4.png)
+
 
 
 
