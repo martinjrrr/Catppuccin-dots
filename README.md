@@ -63,6 +63,10 @@ These are the config files for my Catpuccin rice- Have fun!
   # pipes.sh
   ![grafik](https://user-images.githubusercontent.com/91160845/179310243-22aef38c-a04c-4c3a-a43c-f8f058c74cf9.png)
   - pipes.sh screensaver running in the terminal
+  # rainfall
+  ![grafik](https://user-images.githubusercontent.com/91160845/179310934-a3a47e8a-8760-457f-86a4-0a58ad9c5ff3.png)
+  - rainfall screensaver running in the terminal
+
 
 
 
