@@ -49,6 +49,9 @@ These are the config files for my Catpuccin rice- Have fun!
   from this github: https://github.com/pipeseroni/pipes.sh
   
   
+  
+  ![grafik](https://user-images.githubusercontent.com/91160845/179308369-f896e44f-1eb1-475d-b34d-26d8c310f724.png)
+
 
 
 
