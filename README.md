@@ -51,7 +51,7 @@ These are the config files for my Catpuccin rice- Have fun!
   # rofi:
   ![grafik](https://user-images.githubusercontent.com/91160845/179308738-a764caeb-545d-434e-8629-a14c9985510e.png)
 
-  #cava: 
+  # cava: 
   ![grafik](https://user-images.githubusercontent.com/91160845/179309062-36adcac7-f32f-43de-b805-45b6d8da0795.png)
 
  
