@@ -33,15 +33,19 @@ These are the config files for my Catpuccin rice- Have fun!
   from this github https://github.com/karlstav/cava
   
 - rxfetch - *a Custom system fetching tool which is made in bash script.*
+  
   from this github: https://github.com/Mangeshrex/rxfetch
   
 - rofi - *a window switcher, Application launcher and dmenu replacement.*
+  
   from this github: https://github.com/davatorium/rofi
   
 - picom - *a compositor for X, and a fork of Compton, it adds blur among a few animations*
+  
   from github: https://github.com/yshui/picom
   
 - pipes.sh - *a animated pipes terminal screensaver, reminiscent of Windows' pipes screensaver*
+  
   from this github: https://github.com/pipeseroni/pipes.sh
   
   
