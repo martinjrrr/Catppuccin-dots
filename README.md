@@ -50,19 +50,19 @@ These are the config files for my Catpuccin rice- Have fun!
   
   # rofi:
   ![grafik](https://user-images.githubusercontent.com/91160845/179308738-a764caeb-545d-434e-8629-a14c9985510e.png)
-
+  - rofi with the catpuccin theme
   # cava: 
   ![grafik](https://user-images.githubusercontent.com/91160845/179309062-36adcac7-f32f-43de-b805-45b6d8da0795.png)
-
+  - cava audio visualizer
   # ncspot:
   ![grafik](https://user-images.githubusercontent.com/91160845/179309264-77f6ddfb-c25a-4690-aa63-af3b2477abb7.png)
-
+  - ncspot terminal spotify client
   # rxfetch:
   ![grafik](https://user-images.githubusercontent.com/91160845/179309463-1de05e1f-a9b9-4721-aea9-2e62ccc0406f.png)
-
+  - rxfetch system information fetch tool
   # pipes.sh
   ![grafik](https://user-images.githubusercontent.com/91160845/179310243-22aef38c-a04c-4c3a-a43c-f8f058c74cf9.png)
-
+  - pipes.sh screensaver running in the terminal
 
 
 
