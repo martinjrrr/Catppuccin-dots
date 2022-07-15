@@ -17,10 +17,19 @@ These are the config files for my Catpuccin rice- Have fun!
 
 
 
-- rainfall *a cli similar to cmatrix but with falling rain*
+- rainfall - *a cli similar to cmatrix but with falling rain*
   from this github: https://github.com/alpin111/rainfall
   
-- cava 
+- cava - *a console-based sound visualizer for:*
+   - Pulseaudio
+   - ALSA
+   - MPD
+   - sndio
+   - squeezelite
+   - macOS
+   - WSL
+
+
   from this github https://github.com/karlstav/cava
   
 - rxfetch 
