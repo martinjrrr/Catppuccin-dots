@@ -48,8 +48,9 @@ These are the config files for my Catpuccin rice- Have fun!
   
   from this github: https://github.com/pipeseroni/pipes.sh
   
-  
-  
+  # rofi:
+  ![grafik](https://user-images.githubusercontent.com/91160845/179308738-a764caeb-545d-434e-8629-a14c9985510e.png)
+
  
 
 
