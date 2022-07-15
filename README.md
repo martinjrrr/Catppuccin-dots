@@ -5,7 +5,12 @@ You are most likely going to need the Jetbrains Nerdfont for things to work corr
 Otherwise only the Papirus Icon pack.
 
 
+
+
 Programs on the screenshot are: 
+
+
+
 
 
 - rainfall 
