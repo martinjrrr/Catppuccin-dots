@@ -1,4 +1,4 @@
-# dotfiles-catpuccin-Rice
+# Cappucin - dotfiles 
 These are the config files for my Catpuccin rice- Have fun!
 
 
