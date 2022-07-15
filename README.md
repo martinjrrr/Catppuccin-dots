@@ -62,7 +62,7 @@ These are the config files for my Catpuccin rice- Have fun!
   - cava audio visualizer
   # ncspot:
   ![grafik](https://user-images.githubusercontent.com/91160845/179309264-77f6ddfb-c25a-4690-aa63-af3b2477abb7.png)
-  - ncspot terminal spotify client
+  - ncspot spotify client for the terminal
   # rxfetch:
   ![grafik](https://user-images.githubusercontent.com/91160845/179309463-1de05e1f-a9b9-4721-aea9-2e62ccc0406f.png)
   - rxfetch system information fetch tool
