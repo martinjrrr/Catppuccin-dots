@@ -1,5 +1,6 @@
 # Catpuccin - dotfiles 
 These are the config files for my Catpuccin rice- Have fun!
+I'm not yet offering the Wallpaper, since it is paid and I can not distribute it without getting in trouble.
 
 
 # Dependencies: 
