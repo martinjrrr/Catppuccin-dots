@@ -1,6 +1,8 @@
 # Catppuccin - dotfiles 
 These are the config files for my Catpuccin rice- Have fun!
-I'm not yet offering the Wallpaper, since it is paid and I can not distribute it without getting in trouble.
+# Wallpaper: 
+# https://ko-fi.com/s/42ef71d30e
+The wallpaper is available on ko-fi for 2€ or more if you want to support the artist!
 
 # Disclaimer:
 The GTK, Rofi and Kitty themes are provided by the catppuccin Github:
