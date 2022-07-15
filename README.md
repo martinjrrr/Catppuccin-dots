@@ -17,7 +17,7 @@ These are the config files for my Catpuccin rice- Have fun!
 
 
 
-- rainfall 
+- rainfall *a cli similar to cmatrix but with falling rain*
   from this github: https://github.com/alpin111/rainfall
   
 - cava 
