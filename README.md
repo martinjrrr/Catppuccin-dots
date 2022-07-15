@@ -2,6 +2,10 @@
 These are the config files for my Catpuccin rice- Have fun!
 I'm not yet offering the Wallpaper, since it is paid and I can not distribute it without getting in trouble.
 
+The GTK, Rofi and Kitty themes are provided by the catppuccin Github:
+https://github.com/catppuccin/catppuccin
+Download them from there!
+
 
 # Dependencies: 
 
