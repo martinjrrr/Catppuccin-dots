@@ -1,4 +1,4 @@
-# Catpuccin - dotfiles 
+# Catppuccin - dotfiles 
 These are the config files for my Catpuccin rice- Have fun!
 I'm not yet offering the Wallpaper, since it is paid and I can not distribute it without getting in trouble.
 
@@ -12,10 +12,7 @@ I'm not yet offering the Wallpaper, since it is paid and I can not distribute it
 
 ![grafik](https://user-images.githubusercontent.com/91160845/179303606-d09ae351-1632-42b0-9700-c195e4da97f4.png)
 
-# Programs are:
-
-
-
+# Applications are:
 
 
 
