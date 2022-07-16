@@ -51,7 +51,7 @@ You can use my files but I recommend you Download them from there!
 
   from this github https://github.com/karlstav/cava
   
-- ncspot - *a ncurses Spotify client written in Rust using librespot'
+- ncspot - *a ncurses Spotify client written in Rust using librespot*
 
   from this github: https://github.com/hrkfdn/ncspot
   
