@@ -13,7 +13,7 @@ The wallpaper is available on ko-fi for 2€ or more if you want to support the 
 - Kitty:        
   https://github.com/catppuccin/catppuccinhttps://github.com/catppuccin/r
 - GTK Theme:    
-  https://github.com/catppuccin/catppuccinhttps://github.com/catppuccin/rhttps://github.com/catppuccin/catppuccinhttps://github.com//catppuccin/r               
+  https://github.com/catppuccin/gtk             
 
 You can use my files but I recommend you Download them from there!
 
