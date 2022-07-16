@@ -5,11 +5,15 @@ These are the config files for my Catpuccin rice- Have fun!
 The wallpaper is available on ko-fi for 2€ or more if you want to support the artist!
 
 # Disclaimer:
-The GTK, Rofi and Kitty themes are provided by the catppuccin Github:
-- Rofi:         https://github.com/catppuccin/rofi
-- Alacritty:    https://github.com/catppuccin/catppuccinhttps://github.com/catppuccin/r
-- Kitty:        https://github.com/catppuccin/catppuccinhttps://github.com/catppuccin/r
-- GTK Theme:    https://github.com/catppuccin/catppuccinhttps://github.com/catppuccin/rhttps://github.com/catppuccin/catppuccinhttps://github.com          /catppuccin/r
+  The GTK, Rofi and Kitty themes are provided by the catppuccin Github:
+- Rofi:         
+  https://github.com/catppuccin/rofi
+- Alacritty:    
+  https://github.com/catppuccin/catppuccinhttps://github.com/catppuccin/r
+- Kitty:        
+  https://github.com/catppuccin/catppuccinhttps://github.com/catppuccin/r
+- GTK Theme:    
+  https://github.com/catppuccin/catppuccinhttps://github.com/catppuccin/rhttps://github.com/catppuccin/catppuccinhttps://github.com/catppuccin/r               
 
 You can use my files but I recommend you Download them from there!
 
