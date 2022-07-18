@@ -21,6 +21,7 @@ You can use my files but I recommend you Download them from there!
 # Dependencies: 
 
 - Jetbrains Nerd Font
+  from this github: https://github.com/ryanoasis/nerd-fonts/releases/tag/2.2.0-RC
 
 - Papirus Icon theme
   from this github: https://github.com/PapirusDevelopmentTeam/papirus_icons
